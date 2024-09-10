@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=brawler
+comment1.params=
+comment1.target=brawler()
+comment2.params=name
+comment2.target=brawler(java.lang.String)
+numComments=3

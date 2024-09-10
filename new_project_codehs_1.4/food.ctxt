@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=food
+comment1.params=foodName\ gmFat\ gmCarbs\ gmProtein
+comment1.target=food(java.lang.String,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ totalgrams()
+comment3.params=
+comment3.target=double\ totalcalories()
+comment4.params=
+comment4.target=double\ fatcalper()
+comment5.params=
+comment5.target=java.lang.String\ healthy()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

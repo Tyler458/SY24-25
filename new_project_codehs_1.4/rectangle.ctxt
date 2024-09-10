@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=rectangle
+comment1.params=theWidth\ theHeight
+comment1.target=rectangle(int,\ int)
+comment2.params=
+comment2.target=void\ printArea()
+comment3.params=
+comment3.target=void\ printPerimeter()
+comment4.params=price
+comment4.target=void\ printCost(double)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

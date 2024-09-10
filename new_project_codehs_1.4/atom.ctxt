@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=atom
+comment1.params=neu\ pro\ ele\ nam
+comment1.target=atom(int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getpro()
+comment3.params=
+comment3.target=int\ getneu()
+comment4.params=
+comment4.target=int\ getele()
+comment5.params=
+comment5.target=java.lang.String\ nam()
+comment6.params=
+comment6.target=int\ atomicNumber()
+comment7.params=
+comment7.target=int\ atomicMass()
+comment8.params=
+comment8.target=java.lang.String\ charge()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
